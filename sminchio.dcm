@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP VIN_A
+K power-flag
+$ENDCMP
+#
+$CMP VIN_B
+K power-flag
+$ENDCMP
+#
 #End Doc Library
